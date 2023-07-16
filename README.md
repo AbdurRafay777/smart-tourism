@@ -2,4 +2,4 @@
 
 ## Launching
 
-`php artisan serve` Start application. 
+`php artisan serve` Start web application. 
